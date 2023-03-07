@@ -1,0 +1,160 @@
+{"id": 0, "name": "Aatrox", "title": "The Darkin Blade"}
+{"id": 1, "name": "Ahri", "title": "The Nine-Tailed Fox"}
+{"id": 2, "name": "Akali", "title": "The Rogue Assassin"}
+{"id": 3, "name": "Akshan", "title": "The Rogue Sentinel"}
+{"id": 4, "name": "Alistar", "title": "The Minotaur"}
+{"id": 5, "name": "Amumu", "title": "The Sad Mummy"}
+{"id": 6, "name": "Anivia", "title": "The Cryophoenix"}
+{"id": 7, "name": "Annie", "title": "The Dark Child"}
+{"id": 8, "name": "Aphelios", "title": "The Weapon of the Faithful"}
+{"id": 9, "name": "Ashe", "title": "The Frost Archer"}
+{"id": 10, "name": "Aurelion", "title": "The Star Forger"}
+{"id": 11, "name": "Azir", "title": "The Emperor of the Sands"}
+{"id": 12, "name": "Bard", "title": "The Wandering Caretaker"}
+{"id": 13, "name": "Bel'Veth", "title": "The Empress of the Void Slayer"}
+{"id": 14, "name": "Blitzcrank", "title": "The Great Steam Golem"}
+{"id": 15, "name": "Brand", "title": "The Burning Vengeance"}
+{"id": 16, "name": "Braum", "title": "The Heart of the Freljord"}
+{"id": 17, "name": "Caitlyn", "title": "The Sheriff of Piltover"}
+{"id": 18, "name": "Camille", "title": "The Steel Shadow"}
+{"id": 19, "name": "Cassiopeia", "title": "The Serpent's Embrace"}
+{"id": 20, "name": "Cho'Gath", "title": "The Terror of the Void"}
+{"id": 21, "name": "Corki", "title": "The Daring Bombardier Marksman"}
+{"id": 22, "name": "Darius", "title": "The Hand of Noxus Fighter"}
+{"id": 23, "name": "Diana", "title": "Scorn of the Moon Slayer"}
+{"id": 24, "name": "Dr.", "title": "Mundo the Madman of Zaun"}
+{"id": 25, "name": "Draven", "title": "The Glorious Executioner"}
+{"id": 26, "name": "Ekko", "title": "The Boy Who Shattered Time"}
+{"id": 27, "name": "Elise", "title": "The Spider Queen"}
+{"id": 28, "name": "Evelynn", "title": "Agony's Embrace"}
+{"id": 29, "name": "Ezreal", "title": "The Prodigal Explorer"}
+{"id": 30, "name": "Fiddlesticks", "title": "The Ancient Fear"}
+{"id": 31, "name": "Fiora", "title": "The Grand Duelist"}
+{"id": 32, "name": "Fizz", "title": "The Tidal Trickster"}
+{"id": 33, "name": "Galio", "title": "The Colossus Tank"}
+{"id": 34, "name": "Gangplank", "title": "The Saltwater Scourge"}
+{"id": 35, "name": "Garen", "title": "The Might of Demacia"}
+{"id": 36, "name": "Gnar", "title": "The Missing Link"}
+{"id": 37, "name": "Gragas", "title": "The Rabble Rouser"}
+{"id": 38, "name": "Graves", "title": "The Outlaw"}
+{"id": 39, "name": "Gwen", "title": "The Hallowed Seamstress"}
+{"id": 40, "name": "Hecarim", "title": "The Shadow of War"}
+{"id": 41, "name": "Heimerdinger", "title": "The Revered Inventor Specialist"}
+{"id": 42, "name": "Illaoi", "title": "The Kraken Priestess"}
+{"id": 43, "name": "Irelia", "title": "The Blade Dancer Fighter"}
+{"id": 44, "name": "Ivern", "title": "The Green Father"}
+{"id": 45, "name": "Janna", "title": "The Storm's Fury"}
+{"id": 46, "name": "Jarvan", "title": "IV the Exemplar of Demacia"}
+{"id": 47, "name": "Jax", "title": "Grandmaster at Arms"}
+{"id": 48, "name": "Jayce", "title": "The Defender of Tomorrow"}
+{"id": 49, "name": "Jhin", "title": "The Virtuoso"}
+{"id": 50, "name": "Jinx", "title": "The Loose Cannon"}
+{"id": 51, "name": "Kai'Sa", "title": "Daughter of the Void"}
+{"id": 52, "name": "Kalista", "title": "The Spear of Vengeance"}
+{"id": 53, "name": "Karma", "title": "The Enlightened One"}
+{"id": 54, "name": "Karthus", "title": "The Deathsinger"}
+{"id": 55, "name": "Kassadin", "title": "The Void Walker"}
+{"id": 56, "name": "Katarina", "title": "The Sinister Blade"}
+{"id": 57, "name": "Kayle", "title": "The Righteous"}
+{"id": 58, "name": "Kayn", "title": "The Shadow Reaper"}
+{"id": 59, "name": "Kennen", "title": "The Heart of the Tempest"}
+{"id": 60, "name": "Kha'Zix", "title": "The Voidreaver"}
+{"id": 61, "name": "Kindred", "title": "The Eternal Hunters"}
+{"id": 62, "name": "Kled", "title": "The Cantankerous Cavalier"}
+{"id": 63, "name": "Kog'Maw", "title": "The Mouth of the Abyss"}
+{"id": 64, "name": "LeBlanc", "title": "The Deceiver"}
+{"id": 65, "name": "Lee", "title": "Sin the Blind Monk"}
+{"id": 66, "name": "Leona", "title": "The Radiant Dawn"}
+{"id": 67, "name": "Lillia", "title": "The Bashful Bloom"}
+{"id": 68, "name": "Lissandra", "title": "The Ice Witch"}
+{"id": 69, "name": "Lucian", "title": "The Purifier"}
+{"id": 70, "name": "Lulu", "title": "The Fae"}
+{"id": 71, "name": "Lux", "title": "The Lady of Luminosity"}
+{"id": 72, "name": "Malphite", "title": "Shard of the Monolith"}
+{"id": 73, "name": "Malzahar", "title": "The Prophet of the Void"}
+{"id": 74, "name": "Maokai", "title": "The Twisted Treant"}
+{"id": 75, "name": "Master", "title": "Yi the Wuju Bladesman"}
+{"id": 76, "name": "Miss", "title": "Fortune the Bounty Hunter"}
+{"id": 77, "name": "Mordekaiser", "title": "The Iron Revenant"}
+{"id": 78, "name": "Morgana", "title": "The Fallen"}
+{"id": 79, "name": "Nami", "title": "The Tidecaller Controller"}
+{"id": 80, "name": "Nasus", "title": "The Curator of the Sands"}
+{"id": 81, "name": "Nautilus", "title": "The Titan of the Depths"}
+{"id": 82, "name": "Neeko", "title": "The Curious Chameleon"}
+{"id": 83, "name": "Nidalee", "title": "The Bestial Huntress"}
+{"id": 84, "name": "Nocturne", "title": "The Eternal Nightmare"}
+{"id": 85, "name": "Nunu", "title": "& Willump the Boy and His Yeti Tank"}
+{"id": 86, "name": "Olaf", "title": "The Berserker"}
+{"id": 87, "name": "Orianna", "title": "The Lady of Clockwork"}
+{"id": 88, "name": "Ornn", "title": "The Fire Below the Mountain"}
+{"id": 89, "name": "Pantheon", "title": "The Unbreakable Spear"}
+{"id": 90, "name": "Poppy", "title": "Keeper of the Hammer"}
+{"id": 91, "name": "Pyke", "title": "The Bloodharbor Ripper"}
+{"id": 92, "name": "Qiyana", "title": "Empress of the Elements"}
+{"id": 93, "name": "Quinn", "title": "Demacia's Wings"}
+{"id": 94, "name": "Rakan", "title": "The Charmer Controller"}
+{"id": 95, "name": "Rammus", "title": "The Armordillo"}
+{"id": 96, "name": "Rek'Sai", "title": "The Void Burrower"}
+{"id": 97, "name": "Rell", "title": "The Iron Maiden"}
+{"id": 98, "name": "Renata", "title": "The Chem-Baroness"}
+{"id": 99, "name": "Renekton", "title": "The Butcher of the Sands"}
+{"id": 100, "name": "Rengar", "title": "The Pridestalker"}
+{"id": 101, "name": "Riven", "title": "The Exile"}
+{"id": 102, "name": "Rumble", "title": "The Mechanized Menace"}
+{"id": 103, "name": "Ryze", "title": "The Rune Mage"}
+{"id": 104, "name": "Samira", "title": "The Desert Rose"}
+{"id": 105, "name": "Sejuani", "title": "Fury of the North"}
+{"id": 106, "name": "Senna", "title": "The Redeemer"}
+{"id": 107, "name": "Seraphine", "title": "The Starry-Eyed Songstress"}
+{"id": 108, "name": "Sett", "title": "The Boss"}
+{"id": 109, "name": "Shaco", "title": "The Demon Jester Slayer"}
+{"id": 110, "name": "Shen", "title": "The Eye of Twilight Tank"}
+{"id": 111, "name": "Shyvana", "title": "The Half-Dragon Fighter"}
+{"id": 112, "name": "Singed", "title": "The Mad Chemist"}
+{"id": 113, "name": "Sion", "title": "The Undead Juggernaut"}
+{"id": 114, "name": "Sivir", "title": "The Battle Mistress Marksman"}
+{"id": 115, "name": "Skarner", "title": "The Crystal Vanguard"}
+{"id": 116, "name": "Sona", "title": "Maven of the Strings"}
+{"id": 117, "name": "Soraka", "title": "The Starchild"}
+{"id": 118, "name": "Swain", "title": "The Noxian Grand General"}
+{"id": 119, "name": "Sylas", "title": "The Unshackled"}
+{"id": 120, "name": "Syndra", "title": "The Dark Sovereign"}
+{"id": 121, "name": "Tahm", "title": "Kench The River King"}
+{"id": 122, "name": "Taliyah", "title": "The Stoneweaver"}
+{"id": 123, "name": "Talon", "title": "The Blade's Shadow"}
+{"id": 124, "name": "Taric", "title": "The Shield of Valoran"}
+{"id": 125, "name": "Teemo", "title": "The Swift Scout"}
+{"id": 126, "name": "Thresh", "title": "The Chain Warden"}
+{"id": 127, "name": "Tristana", "title": "The Yordle"}
+{"id": 128, "name": "Trundle", "title": "The Troll King"}
+{"id": 129, "name": "Tryndamere", "title": "The Barbarian King"}
+{"id": 130, "name": "Twisted", "title": "Fate the Card Master"}
+{"id": 131, "name": "Twitch", "title": "The Plague Rat"}
+{"id": 132, "name": "Udyr", "title": "The Spirit Walker"}
+{"id": 133, "name": "Urgot", "title": "The Dreadnought Fighter"}
+{"id": 134, "name": "Varus", "title": "The Arrow of Retribution"}
+{"id": 135, "name": "Vayne", "title": "The Night Hunter Marksman"}
+{"id": 136, "name": "Veigar", "title": "The Tiny Master of Evil Mage"}
+{"id": 137, "name": "Vel'Koz", "title": "The Eye of the Void"}
+{"id": 138, "name": "Vex", "title": "The Gloomist"}
+{"id": 139, "name": "Vi", "title": "The Piltover Enforcer"}
+{"id": 140, "name": "Viego", "title": "The Ruined King"}
+{"id": 141, "name": "Viktor", "title": "The Machine Herald"}
+{"id": 142, "name": "Vladimir", "title": "The Crimson Reaper"}
+{"id": 143, "name": "Volibear", "title": "The Relentless Storm"}
+{"id": 144, "name": "Warwick", "title": "The Uncaged Wrath of Zaun"}
+{"id": 145, "name": "Wukong", "title": "The Monkey King"}
+{"id": 146, "name": "Xayah", "title": "The Rebel"}
+{"id": 147, "name": "Xerath", "title": "The Magus Ascendant"}
+{"id": 148, "name": "Xin", "title": "Zhao the Seneschal of Demacia"}
+{"id": 149, "name": "Yasuo", "title": "The Unforgiven Slaye"}
+{"id": 150, "name": "Yone", "title": "The Unforgotten Slayer"}
+{"id": 151, "name": "Yorick", "title": "Shepherd of Souls"}
+{"id": 152, "name": "Yuumi", "title": "The Magical Cat"}
+{"id": 153, "name": "Zac", "title": "The Secret Weapon"}
+{"id": 154, "name": "Zed", "title": "The Master of Shadows"}
+{"id": 155, "name": "Zeri", "title": "The Spark of Zaun"}
+{"id": 156, "name": "Ziggs", "title": "The Hexplosives Expert"}
+{"id": 157, "name": "Zilean", "title": "The Chronokeeper"}
+{"id": 158, "name": "Zoe", "title": "The Aspect of Twilight"}
+{"id": 159, "name": "Zyra", "title": "Rise of the Thorns"}
