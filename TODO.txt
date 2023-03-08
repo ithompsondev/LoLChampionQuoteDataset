@@ -1,0 +1,1 @@
+Create an append script that runs the scraper only for single or small batch entries for new champions

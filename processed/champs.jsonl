@@ -8,7 +8,7 @@
 {"id": 7, "name": "Annie", "title": "The Dark Child"}
 {"id": 8, "name": "Aphelios", "title": "The Weapon of the Faithful"}
 {"id": 9, "name": "Ashe", "title": "The Frost Archer"}
-{"id": 10, "name": "Aurelion", "title": "The Star Forger"}
+{"id": 10, "name": "Aurelion Sol", "title": "The Star Forger"}
 {"id": 11, "name": "Azir", "title": "The Emperor of the Sands"}
 {"id": 12, "name": "Bard", "title": "The Wandering Caretaker"}
 {"id": 13, "name": "Bel'Veth", "title": "The Empress of the Void Slayer"}
@@ -22,7 +22,7 @@
 {"id": 21, "name": "Corki", "title": "The Daring Bombardier Marksman"}
 {"id": 22, "name": "Darius", "title": "The Hand of Noxus Fighter"}
 {"id": 23, "name": "Diana", "title": "Scorn of the Moon Slayer"}
-{"id": 24, "name": "Dr.", "title": "Mundo the Madman of Zaun"}
+{"id": 24, "name": "Dr. Mundo", "title": "Mundo the Madman of Zaun"}
 {"id": 25, "name": "Draven", "title": "The Glorious Executioner"}
 {"id": 26, "name": "Ekko", "title": "The Boy Who Shattered Time"}
 {"id": 27, "name": "Elise", "title": "The Spider Queen"}
@@ -44,7 +44,7 @@
 {"id": 43, "name": "Irelia", "title": "The Blade Dancer Fighter"}
 {"id": 44, "name": "Ivern", "title": "The Green Father"}
 {"id": 45, "name": "Janna", "title": "The Storm's Fury"}
-{"id": 46, "name": "Jarvan", "title": "IV the Exemplar of Demacia"}
+{"id": 46, "name": "Jarvan IV", "title": "IV the Exemplar of Demacia"}
 {"id": 47, "name": "Jax", "title": "Grandmaster at Arms"}
 {"id": 48, "name": "Jayce", "title": "The Defender of Tomorrow"}
 {"id": 49, "name": "Jhin", "title": "The Virtuoso"}
@@ -63,7 +63,7 @@
 {"id": 62, "name": "Kled", "title": "The Cantankerous Cavalier"}
 {"id": 63, "name": "Kog'Maw", "title": "The Mouth of the Abyss"}
 {"id": 64, "name": "LeBlanc", "title": "The Deceiver"}
-{"id": 65, "name": "Lee", "title": "Sin the Blind Monk"}
+{"id": 65, "name": "Lee Sin", "title": "Sin the Blind Monk"}
 {"id": 66, "name": "Leona", "title": "The Radiant Dawn"}
 {"id": 67, "name": "Lillia", "title": "The Bashful Bloom"}
 {"id": 68, "name": "Lissandra", "title": "The Ice Witch"}
@@ -73,8 +73,8 @@
 {"id": 72, "name": "Malphite", "title": "Shard of the Monolith"}
 {"id": 73, "name": "Malzahar", "title": "The Prophet of the Void"}
 {"id": 74, "name": "Maokai", "title": "The Twisted Treant"}
-{"id": 75, "name": "Master", "title": "Yi the Wuju Bladesman"}
-{"id": 76, "name": "Miss", "title": "Fortune the Bounty Hunter"}
+{"id": 75, "name": "Master Yi", "title": "Yi the Wuju Bladesman"}
+{"id": 76, "name": "Miss Fortune", "title": "Fortune the Bounty Hunter"}
 {"id": 77, "name": "Mordekaiser", "title": "The Iron Revenant"}
 {"id": 78, "name": "Morgana", "title": "The Fallen"}
 {"id": 79, "name": "Nami", "title": "The Tidecaller Controller"}
@@ -96,7 +96,7 @@
 {"id": 95, "name": "Rammus", "title": "The Armordillo"}
 {"id": 96, "name": "Rek'Sai", "title": "The Void Burrower"}
 {"id": 97, "name": "Rell", "title": "The Iron Maiden"}
-{"id": 98, "name": "Renata", "title": "The Chem-Baroness"}
+{"id": 98, "name": "Renata Glasc", "title": "The Chem-Baroness"}
 {"id": 99, "name": "Renekton", "title": "The Butcher of the Sands"}
 {"id": 100, "name": "Rengar", "title": "The Pridestalker"}
 {"id": 101, "name": "Riven", "title": "The Exile"}
@@ -119,7 +119,7 @@
 {"id": 118, "name": "Swain", "title": "The Noxian Grand General"}
 {"id": 119, "name": "Sylas", "title": "The Unshackled"}
 {"id": 120, "name": "Syndra", "title": "The Dark Sovereign"}
-{"id": 121, "name": "Tahm", "title": "Kench The River King"}
+{"id": 121, "name": "Tahm Kench", "title": "Kench The River King"}
 {"id": 122, "name": "Taliyah", "title": "The Stoneweaver"}
 {"id": 123, "name": "Talon", "title": "The Blade's Shadow"}
 {"id": 124, "name": "Taric", "title": "The Shield of Valoran"}
@@ -128,7 +128,7 @@
 {"id": 127, "name": "Tristana", "title": "The Yordle"}
 {"id": 128, "name": "Trundle", "title": "The Troll King"}
 {"id": 129, "name": "Tryndamere", "title": "The Barbarian King"}
-{"id": 130, "name": "Twisted", "title": "Fate the Card Master"}
+{"id": 130, "name": "Twisted Fate", "title": "Fate the Card Master"}
 {"id": 131, "name": "Twitch", "title": "The Plague Rat"}
 {"id": 132, "name": "Udyr", "title": "The Spirit Walker"}
 {"id": 133, "name": "Urgot", "title": "The Dreadnought Fighter"}
@@ -146,7 +146,7 @@
 {"id": 145, "name": "Wukong", "title": "The Monkey King"}
 {"id": 146, "name": "Xayah", "title": "The Rebel"}
 {"id": 147, "name": "Xerath", "title": "The Magus Ascendant"}
-{"id": 148, "name": "Xin", "title": "Zhao the Seneschal of Demacia"}
+{"id": 148, "name": "Xin Zhao", "title": "Zhao the Seneschal of Demacia"}
 {"id": 149, "name": "Yasuo", "title": "The Unforgiven Slaye"}
 {"id": 150, "name": "Yone", "title": "The Unforgotten Slayer"}
 {"id": 151, "name": "Yorick", "title": "Shepherd of Souls"}
