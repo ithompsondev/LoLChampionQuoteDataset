@@ -1,2 +1,1 @@
-MAJOR: Quote Ids keep resetting when writing quotes from one champion to the next
 Create an append script that runs the scraper only for single or small batch entries for new champions

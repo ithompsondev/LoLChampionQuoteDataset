@@ -25,19 +25,21 @@ def parse_champ_quotes(html):
     quotes = soup.findAll("i")
     return filter(lambda quote: "\"" in quote, map(lambda soup_quote: soup_quote.text, quotes))
 
-def write_champ_quotes(champ_id, champ_name):
+def write_champ_quotes(quote_id_offset, champ_id, champ_name):
     champ_name = champ_name if len(champ_name.split(" ")) == 1 else "_".join(champ_name.split(" "))
     parsed_quotes = parse_champ_quotes(scrape_champ_html(champ_name))
     for qid, quote in enumerate(parsed_quotes):
-        champ_quotes_file.write(json.dumps({"id": qid, "champ_id": champ_id, "quote": quote.lstrip("\"").rstrip("\"").rstrip("\n")}) + "\n")
+        champ_quotes_file.write(json.dumps({"id": quote_id_offset + qid, "champ_id": champ_id, "quote": quote.lstrip("\"").rstrip("\"").rstrip("\n")}) + "\n")
+    return qid + 1
 
 def write_all_champ_quotes():
     champ_records = process_champs_jsonl()
+    quote_id_offset = 0
     for champ in champ_records:
         print("Writing champion quote data for: {}".format(champ["name"]))
         start = time.time()
         try:
-            write_champ_quotes(champ["id"], champ["name"])
+            quote_id_offset = quote_id_offset + write_champ_quotes(quote_id_offset, champ["id"], champ["name"])
             print("\tCOMPLETED - {}s".format(time.time() - start))
             time.sleep(2)
         except Exception as e:
