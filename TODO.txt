@@ -1,1 +1,2 @@
+BUG: Missing K'Sante (possibly other champions)
 Create an append script that runs the scraper only for single or small batch entries for new champions
